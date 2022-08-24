@@ -1,0 +1,22 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "cn-rodriguez",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cn-rodriguez/freecodecamp-node.git"
+  },
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "bugs": {
+    "url": "https://github.com/cn-rodriguez/freecodecamp-node/issues"
+  },
+  "homepage": "https://github.com/cn-rodriguez/freecodecamp-node#readme",
+  "version": "1.0.0",
+  "license": "ISC"
+}
